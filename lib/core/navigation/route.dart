@@ -1,0 +1,10 @@
+const String onboardView = 'OnboardView';
+const String mainView = 'mainView';
+const String signupLayoutView1 = 'SignupLayoutView1';
+const String signupLayoutView2 = 'SignupLayoutView2';
+const String signupLayoutView3 = 'SignupLayoutView3';
+const String signupLayoutView4 = 'SignupLayoutView4';
+const String loginView = 'LoginView';
+const String homeView = 'HomeView';
+const String createBudgetView = 'CreateBudgetView';
+const String budgetDetailsView = 'BudgetDetailsView';
